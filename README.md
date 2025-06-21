@@ -2,6 +2,8 @@ Phrase Detector using LSTM – Project Summary
 
 This project implements a Phrase Detector using LSTM (Long Short-Term Memory), designed to predict the next word or phrase in a sequence based on learned context. 
 
+Dataset Link:
+https://www.kaggle.com/datasets/noorsaeed/holmes
 
 Key Components:
 
