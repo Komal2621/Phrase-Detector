@@ -4,6 +4,7 @@ This project implements a Phrase Detector using LSTM (Long Short-Term Memory), d
 
 
 Key Components:
+
 Data Preprocessing: Text is cleaned, tokenized, and converted into input-output sequences for training.
 
 Model Architecture: Multiple LSTM layers followed by a dense output layer process sequences and predict the next likely word/phrase.
